@@ -1,0 +1,17 @@
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.Properties.Resources.resources
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\bin\Debug\MouseGesturesProject.exe
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\bin\Debug\MouseGesturesProject.pdb
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.Form1.resources
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.exe
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.pdb
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.GesturesEditor.resources
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.exe
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.pdb
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\bin\Debug\MouseGesturesProject.exe
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\bin\Debug\MouseGesturesProject.pdb
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.MainForm.resources
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.Properties.Resources.resources
+C:\Users\NohponeX\Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Debug\MouseGesturesProject.csproj.GenerateResource.Cache

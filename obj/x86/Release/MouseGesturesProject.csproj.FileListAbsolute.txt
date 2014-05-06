@@ -1,0 +1,9 @@
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\MouseGesturesProject.Properties.Resources.resources
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\bin\Release\MouseGesturesProject.exe
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\bin\Release\MouseGesturesProject.pdb
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\MouseGesturesProject.Form1.resources
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\MouseGesturesProject.exe
+C:\Users\NohponeX\Documents\My Dropbox\Labs\C#\MouseGesturesProject\MouseGesturesProject\obj\x86\Release\MouseGesturesProject.pdb
